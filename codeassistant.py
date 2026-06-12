@@ -11,7 +11,7 @@ import re
 
 
 # Gemini API key
-GEMINI_API_KEY = "AIzaSyCGw8hMY1L2rWC3h-khI9RjA2vHXtZKLFs"
+GEMINI_API_KEY = "YOUR API KEY"
 BASE_DIR = "C:/assistant_files"
 os.makedirs(BASE_DIR, exist_ok=True)
 
